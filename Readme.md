@@ -1,4 +1,4 @@
 # MINT road extraction project
 
-Our goal is to detect road network from a satellite images from South Sudan regions.
+Our goal is to detect road networks from satellite images from South Sudan regions.  
 [on progress...]
